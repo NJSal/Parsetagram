@@ -41,6 +41,17 @@ GIF created with [Recordit]
   </div>
 </div>
 
+<div class="image123">
+    <div class="imgContainer">
+        <img src="http://g.recordit.co/KfwUnQuD3C.gif" width="200"/>
+        <p>This is image 1</p>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="http://g.recordit.co/wRhm8zLE45.gif" height="200" width="200"/>
+        <p>This is image 2</p>
+    </div>
+</div>
+
 ## Notes
 
 Describe any challenges encountered while building the app.
