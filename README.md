@@ -34,10 +34,10 @@ GIF created with [Recordit]
 
 <div class="row">
   <div class="column">
-    <img src="http://g.recordit.co/KfwUnQuD3C.gif" width=300>
+    <img src="http://g.recordit.co/KfwUnQuD3C.gif" width=100>
   </div>
   <div class="column">
-    <img src="http://g.recordit.co/wRhm8zLE45.gif" width=300>
+    <img src="http://g.recordit.co/wRhm8zLE45.gif" width=100>
   </div>
 </div>
 
