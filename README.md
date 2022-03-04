@@ -8,10 +8,10 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can sign up to create a new account using Parse authentication.
+- [x] User can sign up to create a new account using Parse authentication.
 - [x] User can log in and log out of his or her account.
 - [x] The current signed in user is persisted across app restarts.
-- [ ] User can take a photo, add a caption, and post it to "Instagram".
+- [x] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -27,8 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/KfwUnQuD3C.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+<img src="http://g.recordit.co/KfwUnQuD3C.gif" width=300><br><br>
 
+<img src="http://g.recordit.co/wRhm8zLE45.gif' width=300><br><br>
 GIF created with [Recordit]
 
 ## Notes
