@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="http://g.recordit.co/KfwUnQuD3C.gif" width=300><br><br>
 
-<img src="http://g.recordit.co/wRhm8zLE45.gif' width=300><br><br>
+<img src="http://g.recordit.co/wRhm8zLE45.gif" width=300><br><br>
 GIF created with [Recordit]
 
 ## Notes
