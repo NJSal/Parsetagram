@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
         <p>User Log In</p>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="http://g.recordit.co/wRhm8zLE45.gif" height="200" width="200"/>
+        <img class="middle-img" src="http://g.recordit.co/wRhm8zLE45.gif" width="200"/>
         <p>User Persistence after being logged in</p>
     </div>
 </div>
