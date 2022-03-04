@@ -44,11 +44,11 @@ GIF created with [Recordit]
 <div class="image123">
     <div class="imgContainer">
         <img src="http://g.recordit.co/KfwUnQuD3C.gif" width="200"/>
-        <p>This is image 1</p>
+        <p>User Log In</p>
     </div>
     <div class="imgContainer">
         <img class="middle-img" src="http://g.recordit.co/wRhm8zLE45.gif" height="200" width="200"/>
-        <p>This is image 2</p>
+        <p>User Persistence after being logged in</p>
     </div>
 </div>
 
