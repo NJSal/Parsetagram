@@ -27,20 +27,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://g.recordit.co/KfwUnQuD3C.gif" width=300><br><br>
-
-<img src="http://g.recordit.co/wRhm8zLE45.gif" width=300><br><br>
-GIF created with [Recordit]
-
-<div class="row">
-  <div class="column">
-    <img src="http://g.recordit.co/KfwUnQuD3C.gif" width=100>
-  </div>
-  <div class="column">
-    <img src="http://g.recordit.co/wRhm8zLE45.gif" width=100>
-  </div>
-</div>
-
 <div class="image123">
     <div class="imgContainer">
         <img src="http://g.recordit.co/KfwUnQuD3C.gif" width="200"/>
