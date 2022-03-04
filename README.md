@@ -32,6 +32,15 @@ Here's a walkthrough of implemented user stories:
 <img src="http://g.recordit.co/wRhm8zLE45.gif" width=300><br><br>
 GIF created with [Recordit]
 
+<div class="row">
+  <div class="column">
+    <img src="http://g.recordit.co/KfwUnQuD3C.gif" width=300>
+  </div>
+  <div class="column">
+    <img src="http://g.recordit.co/wRhm8zLE45.gif" width=300>
+  </div>
+</div>
+
 ## Notes
 
 Describe any challenges encountered while building the app.
